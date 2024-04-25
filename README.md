@@ -33,6 +33,8 @@ Visualizations play a crucial role in understanding the data and uncovering patt
 ## Getting Started
 To start exploring and visualizing the dataset, you can use collab or Jupiternotebook. Simply load the dataset cars (1).csv into your environment and open the Cars_Visualization.ipynb"!
 
+Power Bi file :open the file Car_Visualization.pbix in your power BI editor
+
 ```python
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -42,6 +44,5 @@ import seaborn as sns
 data = pd.read_csv("cars (1).csv")
 
 ```
-
 ## Contributors
 This dataset and initial analysis were contributed by Rakhi Tulaskar & Intellipaat.
