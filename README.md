@@ -1,5 +1,5 @@
 # Car_EDA_Visualization
-# Automotive Dataset Exploration and Visualization
+# Automotive Dataset Exploration and Visualization in Python and Power BI 
 
 ## Overview
 This dataset contains automotive data including information about various attributes of different cars such as fuel efficiency, engine specifications, weight, acceleration time, year of manufacture, and brand origin. The dataset can be used for Exploratory Data Analysis (EDA) to gain insights into the characteristics of the cars and visualize relationships between different variables.
